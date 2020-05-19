@@ -158,17 +158,6 @@ class Patient(object):
                 pass
         return len(self.viruses)
 
-#virus = SimpleVirus(0.8, 0.3)
-#virus_2 = SimpleVirus(0.5, 0.5)
-#print(virus.getClearProb())
-#print(virus.doesClear())
-#viruses = [virus, virus_2]
-#patient = Patient(viruses, 5)
-#print(patient.getViruses())
-#print(patient.getMaxPop())
-#print(patient.getTotalPop())
-#print(patient.update())
-
 #
 # PROBLEM 2
 #
